@@ -1,20 +1,25 @@
-# luxury_snacks_app
-<<<<<<< HEAD
-simple food_app
-=======
 
-A new Flutter project.
+<h1 align="left">luxury snacks app</h1>
+<h3 align="left">A simple food app</h3>
+<p align="left"> <img src="https://media1.giphy.com/media/bsfUpZfjw8pBr2QKUg/200w.gif?cid=6c09b952jfbzmxo1smyzg098x02sdvt6oz0h0qbpvceryysj&ep=v1_gifs_search&rid=200w.gif&ct=g" /> </p>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 💬 i made this app for fun :)
+- 💬 also i take the name from a nearby restaurante :)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 5058afb (connect to git hub)
+<p align="left">
+</p>
+ </p>
+
+
+
+
+- 💬 cubit 
+
+<p align="left">
+</p>
+
+</div>
+
