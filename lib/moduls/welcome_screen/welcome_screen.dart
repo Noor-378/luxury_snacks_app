@@ -7,6 +7,7 @@ import 'package:luxury_snacks_app/shared/styles/custom_text_style.dart';
 
 class WelcomeScreen extends StatelessWidget {
   const WelcomeScreen({super.key});
+  
 
   @override
   Widget build(BuildContext context) {
