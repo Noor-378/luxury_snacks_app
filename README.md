@@ -8,7 +8,7 @@
 
 - 💬 i made this app for fun :)
 - 💬 also i take the name from a nearby restaurante :)
-- **incomplete app**
+- ****incomplete app****
 
 <p align="left">
 </p>
